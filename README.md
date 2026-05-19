@@ -54,6 +54,4 @@ npm run dev
 - Fertilizer Suggestions
 - Market Price Tracking
 
-## Author
 
-Pavani
